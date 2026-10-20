@@ -198,7 +198,7 @@ cat root.txt
 ```
 
 ![Root флаг](Screens/Internal_Root_Flag.png)
-
+ 
 ## Remediation (Рекомендации по устранению)
 
 Для предотвращения подобных атак необходимо:
