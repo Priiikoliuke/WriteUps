@@ -7,6 +7,7 @@
 
 | Комната | Сложность |
 |---------|-----------|
+| [Internal](Hard/Internal.md) | Hard |
 | [Smol](Medium/Smol.md) | Medium |
 | [Overpass](Easy/Overpass.md) | Easy |
 
