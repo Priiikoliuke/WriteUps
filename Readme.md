@@ -9,6 +9,7 @@
 |---------|-----------|
 | [Internal](Hard/Internal.md) | Hard |
 | [Smol](Medium/Smol.md) | Medium |
+| [Bookstore](Medium/Bookstore.md) | Medium |
 | [Overpass](Easy/Overpass.md) | Easy |
 
 ## Примечание
