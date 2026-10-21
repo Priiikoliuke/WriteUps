@@ -10,6 +10,7 @@
 | [Internal](Hard/Internal.md) | Hard |
 | [Smol](Medium/Smol.md) | Medium |
 | [Bookstore](Medium/Bookstore.md) | Medium |
+| [Prioritise](Medium/Prioritise.md) | Medium |
 | [Overpass](Easy/Overpass.md) | Easy |
 | [Agent T](Easy/Agent-T.md) | Easy |
 
