@@ -13,6 +13,7 @@
 | [Prioritise](Medium/Prioritise.md) | Medium |
 | [Overpass](Easy/Overpass.md) | Easy |
 | [Agent T](Easy/Agent-T.md) | Easy |
+| [TryHeartMe](Easy/TryHeartMe.md) | Easy |
 
 ## Примечание
 
