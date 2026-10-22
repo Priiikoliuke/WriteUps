@@ -11,6 +11,7 @@
 | [Smol](Medium/Smol.md) | Medium |
 | [Bookstore](Medium/Bookstore.md) | Medium |
 | [Prioritise](Medium/Prioritise.md) | Medium |
+| [Debug](Medium/Debug.md) | Medium |
 | [Overpass](Easy/Overpass.md) | Easy |
 | [Agent T](Easy/Agent-T.md) | Easy |
 | [TryHeartMe](Easy/TryHeartMe.md) | Easy |
